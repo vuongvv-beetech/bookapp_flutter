@@ -33,7 +33,7 @@ class _ReadScreen extends State<ReadScreen> {
   double pitch = 1.0;
   double rate = 1;
 
-  String _newVoiceText = "Sơn";
+  String _newVoiceText = "Vương";
 
   TtsState ttsState = TtsState.stopped;
 
